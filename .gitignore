@@ -1,0 +1,8 @@
+.DS_Store
+.docz
+node_modules/
+.cache/
+*.log
+dist/
+/public/
+yarn.lock
